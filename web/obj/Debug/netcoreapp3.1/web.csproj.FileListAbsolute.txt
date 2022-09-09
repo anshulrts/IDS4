@@ -8,7 +8,6 @@ C:\Projects\web\web\bin\Debug\netcoreapp3.1\web.dll
 C:\Projects\web\web\bin\Debug\netcoreapp3.1\web.pdb
 C:\Projects\web\web\bin\Debug\netcoreapp3.1\web.Views.dll
 C:\Projects\web\web\bin\Debug\netcoreapp3.1\web.Views.pdb
-C:\Projects\web\web\obj\Debug\netcoreapp3.1\web.csproj.AssemblyReference.cache
 C:\Projects\web\web\obj\Debug\netcoreapp3.1\web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\web\web\obj\Debug\netcoreapp3.1\web.AssemblyInfoInputs.cache
 C:\Projects\web\web\obj\Debug\netcoreapp3.1\web.AssemblyInfo.cs

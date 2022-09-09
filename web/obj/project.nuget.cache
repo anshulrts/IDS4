@@ -1,9 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "CUff5/T7HQk5t4/yC1Ft51az42i+zovzgzvOKmTynxNAZK7jI4Ie3Q/fl2yW5RtOW16kCVSdZnpOBGw3x4N78A==",
+  "dgSpecHash": "8nZM7YwYaFUyVjGRmFTHC7qNO+IzQjNqPArKAhecry4QCNdAZ/IotVBnzfmVFlJCmrZP9R6Wd0+90sPSgBtTFg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\web\\web\\web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\identityserver4.storage\\4.1.2\\identityserver4.storage.4.1.2.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.6.0\\microsoft.identitymodel.jsonwebtokens.5.6.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\microsoft.identitymodel.logging\\5.6.0\\microsoft.identitymodel.logging.5.6.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.6.0\\microsoft.identitymodel.protocols.5.6.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.6.0\\microsoft.identitymodel.protocols.openidconnect.5.6.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.6.0\\microsoft.identitymodel.tokens.5.6.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.6.0\\system.identitymodel.tokens.jwt.5.6.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512",
     "C:\\Users\\anshul.dahiya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
