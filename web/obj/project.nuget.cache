@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUff5/T7HQk5t4/yC1Ft51az42i+zovzgzvOKmTynxNAZK7jI4Ie3Q/fl2yW5RtOW16kCVSdZnpOBGw3x4N78A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\web\\web\\web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anshul.dahiya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
